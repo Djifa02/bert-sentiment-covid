@@ -1,0 +1,9 @@
+torch>=2.0
+transformers
+gradio
+scikit-learn
+tqdm
+pandas
+matplotlib
+seaborn
+gdown
